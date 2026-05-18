@@ -1,3 +1,1 @@
 Start-Process "https://drive.google.com/file/d/1wL1FTuVqDNzRsi8cgx4FZy-vKwookeKy/view?usp=sharing";
-Add-Type -AssemblyName PresentationFramework
-[System.Windows.MessageBox]::Show("กูไม่ได้เล่นโปรไอควาย","Error")
